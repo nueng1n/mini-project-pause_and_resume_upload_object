@@ -1,0 +1,20 @@
+{
+  "name": "mini_project_pause_and_resume_upload_object",
+  "version": "1.0.0",
+  "description": "mechanism for upload data (object in this case) that support pause and resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thodsaphon phimket",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "busboy": "^0.3.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "object-hash": "^3.0.0"
+  }
+}
